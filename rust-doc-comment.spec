@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        0.3.3
-Release:        1
+Release:        2
 Summary:        Macro to generate doc comments
 
 License:        MIT
